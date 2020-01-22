@@ -10,3 +10,7 @@ We can find thier respective friend's count and also further find their common f
 Following graph depicts the friendship network between them.A user's friendship network can be represented as a graph that the nodes
 are the users and the edges shows whether there is a friendship relation between them.
 
+![network](https://user-images.githubusercontent.com/51323924/72944883-84e02880-3d37-11ea-92c7-5817275a395f.png)
+
+
+
